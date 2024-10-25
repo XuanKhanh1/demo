@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Iphone 1",
+    "categories_id": "phone",
+    "price": "10000",
+    "image": "https://res.cloudinary.com/dbmj3ryen/image/upload/v1729843063/cld-sample-2.jpg"
+  },
+    {
+    "id": 2,
+    "name": "Iphone 3",
+    "categories_id": "phone",
+      "price": "12000",
+    "image": "https://res.cloudinary.com/dbmj3ryen/image/upload/v1729843063/cld-sample-2.jpg"
+  },
+    {
+    "id": 3,
+    "name": "Iphone 2",
+    "categories_id": "phone",
+      "price": "13000",
+    "image": "https://res.cloudinary.com/dbmj3ryen/image/upload/v1729843063/cld-sample-2.jpg"
+  },
+      {
+    "id": 3,
+    "name": "Iphone 2",
+    "categories_id": "phone",
+      "price": "13000",
+    "image": "https://res.cloudinary.com/dbmj3ryen/image/upload/v1729843063/cld-sample-2.jpg"
+  },
+      {
+    "id": 3,
+    "name": "Iphone 2",
+    "categories_id": "phone",
+      "price": "13000",
+    "image": "https://res.cloudinary.com/dbmj3ryen/image/upload/v1729843063/cld-sample-2.jpg"
+  },
+      {
+    "id": 3,
+    "name": "Iphone 2",
+    "categories_id": "phone",
+      "price": "13000",
+    "image": "https://res.cloudinary.com/dbmj3ryen/image/upload/v1729843063/cld-sample-2.jpg"
+  }
+]
